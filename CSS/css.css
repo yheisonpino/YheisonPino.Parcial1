@@ -1,0 +1,46 @@
+header {
+    background-color: red;
+    color: white;
+    padding: 3px;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+}
+
+button {
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #ff0000;
+    color: white;
+    border: white;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 30px;
+    display: block;
+}
+
+.container1 {
+    height: 60vh;
+    margin: 5%;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px ridge;
+    display: flex;
+    text-align: justify;
+    align-items: center;
+}
+.imagen {
+    height: 350px;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.footer {
+    background-color: red;
+    padding: 3px;
+    font-size: large;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
